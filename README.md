@@ -4,7 +4,7 @@ Soy apasionado por la tecnología ingresando al mundo IT como Full Stack Develop
 Me considero una persona proactiva, me gustan los desafíoslaborales, el movimiento y
 estar constantemente aprendiendo nuevas tecnologias. Me gusta trabajar en equipo!
 
-👀 Me encuentro finalizando el Bootcamp en Henry en Desarrollo Web donde aprendí a trabajar tanto en Back-end como en Front-end.
+👀 Soy egresado del Bootcamp en Henry en Desarrollo Web donde aprendí a trabajar tanto en Back-end como en Front-end.
 
 ## Tech Skills
 
@@ -26,3 +26,5 @@ estar constantemente aprendiendo nuevas tecnologias. Me gusta trabajar en equipo
 [![image](https://user-images.githubusercontent.com/98785661/189456621-158cc584-5289-4b5d-9e1e-5e3b41009000.png)](https://www.linkedin.com/in/leandromartinezvalenzuela/)
 <br>
 Email: martinezvalenzuela@gmail.com
+
+
