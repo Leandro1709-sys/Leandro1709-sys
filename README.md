@@ -26,5 +26,7 @@ estar constantemente aprendiendo nuevas tecnologias. Me gusta trabajar en equipo
 [![image](https://user-images.githubusercontent.com/98785661/189456621-158cc584-5289-4b5d-9e1e-5e3b41009000.png)](https://www.linkedin.com/in/leandromartinezvalenzuela/)
 <br>
 Email: martinezvalenzuela@gmail.com
+Certificado HENRY: https://certificates.soyhenry.com/cert?id=70bb1396-d833-4c16-b285-46c765cf813b
+Nivel de ingles C1: https://www.efset.org/cert/R3ioDF
 
 
